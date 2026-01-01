@@ -23,3 +23,8 @@ This project focuses on layout, styling, and UI behavior inspired by Spotify’s
 - CSS3 (Flexbox, Sticky positioning)
 - Google Fonts (Montserrat)
 - Font Awesome Icons
+
+## 🔗 Live Demo
+
+[View Live Site](https://isharanjan.github.io/Spotify-web-player-clone/)
+
